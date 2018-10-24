@@ -5,7 +5,7 @@ phrase = "Welcome to Flatiron School's Web Development Course!"
     puts phrase
     counter += 1
   
-    if counter > number_of_times
+    if counter == number_of_times
       break
     end
   end
