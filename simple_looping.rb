@@ -1,4 +1,3 @@
-
 counter = 0
 def loop_iterator(number_of_times)
   loop do
